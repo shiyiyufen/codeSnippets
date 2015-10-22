@@ -9,7 +9,7 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> NSLog(@"&lt;#desc#&gt;:%@",&lt;#object#&gt;);</string>
+	<string>NSLog(@"&lt;#desc#&gt;:%@",&lt;#object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B04EDB03-A65A-4582-ABE5-E1620596421F</string>
 	<key>IDECodeSnippetLanguage</key>
